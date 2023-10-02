@@ -1,0 +1,42 @@
+Here is an outline of how my team originally envisioned our projects. They would be able to function on their own and together. Please let me know what works and does not.
+
+Smart Security Cam + Smart Door Lock ideas:
+
+Jamie
+----------------
+Motion detection camera that can send alerts to homeowners.
+Once enough motion is detected, start recording footage to webserver or drive.
+Send email to notify homeowners with a live feed of the outside (like a ring camera).
+Can pan and tilt for specific angles, this will be controlled remotely. 
+Once recording, records audio and listens for voice activated password to unlock the door.
+Once recording, looks for correct qr code to unlock the door. 
+
+
+Anthony
+----------------
+Smart Security Lock that is tied to the security camera.  
+Automated deadbolt/locking mechanism
+a modified deadbolt lock on a door used to automate its function.
+I plan to add an RFID sensor to know who enters through the door and unlocking, a QR input can be an alternative to the RFID
+with the help of Jamie's camera giving the lock an input.
+Smoke detection could be used, in the case that there is a fire within the building The locks can open them selves to facilitate evacutation.
+Some potential ideas would be voice activation for disabilities or if the user has their hands full (input would be from smart camera).
+
+
+sensors:
+-RFID
+-QR
+-Smoke(?)
+-IR
+-wireless user input(?)
+-magnetic switch?
+
+
+actuators:
+
+
+Solenoid/lock mechanism
+
+
+backup power cell(?) 
+ 

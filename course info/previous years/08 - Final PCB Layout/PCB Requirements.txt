@@ -1,0 +1,10 @@
+Submit a Proteus File of your PCB and a BOM.
+
+Ensure that your PCB includes:
+    1) Heritage College Logo
+    2) Your name
+    3) Graduation Year
+
+BOM with costs should be an Excel file.
+
+Zip the two files together for submission.

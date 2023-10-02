@@ -1,0 +1,7 @@
+had us dissasemble electronics and write all their components
+
+Made a BOM / List of requirements and user reqs
+
+Was told after working on the BOM list for 2h (Listing every single capacitor and resistor on the PCBs) that
+
+we didnt need to actually complete the assignment since its not graded. (our efforts were wasted :D)

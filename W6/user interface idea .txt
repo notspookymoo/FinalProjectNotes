@@ -1,0 +1,28 @@
++----------------------------------------+
+|           Smart Security System        |
++----------------------------------------+
+| [Live Video Feed]                      |
+|                                        |
+| Camera Control  [Door Lock Settings]   |
+| [Pan] [Tilt] [Zoom]                    |
+| [Position1] [Position2] [Position3]    |
+| [Record Video] [Take Snapshot]         |
+|                                        |
+| Sensor Monitoring                      |
+| [Motion: On] [Smoke: OK]               |
+| [Temp: 75°F] [Humidity: 50%]           |
+| [Door Status: Closed]                  |
+|                                        |
+| User Management   [Settings]           |
+| [Add User] [Remove User]               |
+| [Edit Profile] [Change Password]       |
+|                                        |
+| [Notifications]                        |
+| [Push: On] [Email: On]                 |
+| [Motion Alerts: On]                    |
+| [Door Access Alerts: On]               |
+| [System Errors: On]                    |
+|                                        |
+| [Help & Support]                       |
+| [User Manual]                          |
++----------------------------------------+

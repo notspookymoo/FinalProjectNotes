@@ -1,0 +1,10 @@
+Had an assignment open on teams for testing more Nano functionalities
+
+IMU,RTC,WDT. Wrote code to test them and he said I didnt actually need to do anything (more effort wasted :D)
+
+Im pretty sure this week he spent every class teaching us how to 
+use github but repeated the same topic over and over again.
+
+At this point we're still pretty lost despite having documentation
+Some teams have or are thinking of ordering parts just to get a move on
+(because it feels like the project will never be complete at this point)

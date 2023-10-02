@@ -1,0 +1,5 @@
+had us test the Nano's onboard features (wifi, bluetooth, led)
+
+Made a github repo for us to upload our code on. 
+
+Had us fill the 'class database' excel sheet (which was never well explained)

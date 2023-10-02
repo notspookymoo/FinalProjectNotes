@@ -1,0 +1,60 @@
+Project Root
+│
+├── Documentation
+│   ├── Requirements.md
+│   ├── Design.md
+│   ├── TestPlans.md
+│   └── UserManual.md
+│
+├── SourceCode
+│   ├── Main
+│   │   ├── main.cpp
+│   │   └── ...
+│   ├── Libraries
+│   │   ├── Library1
+│   │   │   ├── library1.cpp
+│   │   │   ├── library1.h
+│   │   │   └── ...
+│   │   ├── Library2
+│   │   │   ├── library2.cpp
+│   │   │   ├── library2.h
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+│
+├── Tests
+│   ├── UnitTests
+│   │   ├── test1.cpp
+│   │   ├── test2.cpp
+│   │   └── ...
+│   ├── IntegrationTests
+│   │   ├── integration_test1.cpp
+│   │   ├── integration_test2.cpp
+│   │   └── ...
+│   └── ...
+│
+├── Data
+│   ├── SensorData
+│   │   ├── sensor1_data.csv
+│   │   ├── sensor2_data.csv
+│   │   └── ...
+│   ├── Logs
+│   │   ├── log1.txt
+│   │   ├── log2.txt
+│   │   └── ...
+│   └── ...
+│
+└── Resources
+    ├── Images
+    │   ├── image1.png
+    │   ├── image2.png
+    │   └── ...
+    ├── Videos
+    │   ├── video1.mp4
+    │   ├── video2.mp4
+    │   └── ...
+    ├── Fonts
+    │   ├── font1.ttf
+    │   ├── font2.ttf
+    │   └── ...
+    └── ...

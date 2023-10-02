@@ -1,0 +1,14 @@
+threw up a bunch of assignments on Teams. The assignments were to make us read up 
+on the Nano and some sensors/actuators. 
+
+Mentioned us using github and quizzed us at the end of the week
+on git commands (even tho we are using github desktop and not the CLI)
+
+at this point , I think most people in the class just picked whatever project
+LP seemed to like (because it was impossible to know if your project was 
+good or not)
+
+LP looked over my teams project proposal and 'approved it' 
+then gave us advice for Draft 2  (why is there a draft 2 and not just a final version after lol) 
+
+submitted our draft 2 (not sure what he wants to do with it now)
